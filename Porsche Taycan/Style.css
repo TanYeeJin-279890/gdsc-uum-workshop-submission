@@ -1,0 +1,14 @@
+
+.cyan{
+    color:cyan;
+}
+
+.whitesmoke{
+    color:whitesmoke;
+
+}
+
+.grad1 {
+    height: 2000px;
+    background-image: linear-gradient(to bottom right, black, midnightblue, #B76E79);
+  }
